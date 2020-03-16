@@ -1,4 +1,4 @@
-# BBC-Web-Scraper
+# News-Web-Scraper
 A program that scraps the major headlines on the BBC new webpage
 
 MUST HAVE BEAUTIFUL SOUP AND REQUESTS MODULES INSTALLED
